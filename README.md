@@ -3,7 +3,7 @@
 A continuación los enlaces a los proyectos
 
 [Proyecto01]
-(https://github.com/stevenchoez/ProyectosDawm/tree/main/proyecto01 "Proyecto01")
+(https://github.com/stevenchoez/ProyectosDawm/tree/main/proyecto01 *Proyecto01*)
 
 [Proyecto02]
 (https://github.com/stevenchoez/ProyectosDawm/tree/main/proyecto02 "Proyecto02")
